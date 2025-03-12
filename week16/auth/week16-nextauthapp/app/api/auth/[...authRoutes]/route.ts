@@ -12,7 +12,7 @@ const handler = NextAuth({
           password: { label: 'password', type: 'password', placeholder: '' },
         },
         async authorize(credentials: any) {
-            
+            //validation will be here 
             return {
                 id: "user1"
             };
