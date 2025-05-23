@@ -8,6 +8,8 @@
 // }
 // const age=sumofAge({name:'Taro',age:20},{name:'Jiro',age:30});
 // console.log(age);
+console.log(age);
+//console.log(age);
 // interface User{
 //     name:string,
 //     age:number
