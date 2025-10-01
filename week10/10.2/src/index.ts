@@ -2,7 +2,7 @@
 
 import {PrismaClient} from "@prisma/client";
 
-const prisma =new PrismaClient();
+
 
 // 
 //if you run this code some auto generated code will be created
